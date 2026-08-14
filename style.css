@@ -32,7 +32,7 @@ justify-content: space-between;
 
 nav a {
 text-decoration: none; color: white; font-family: "Inter", sans-serif;
- font-size: 14px; font-weight: 300px; 
+ font-size: 14px; font-weight: 300; 
 
 }
 
@@ -58,7 +58,7 @@ text-decoration: none; color: white; font-family: "Inter", sans-serif;
  }
 
  .textarea {
-    margin-left: 80px;
+    margin-left: 50px;
 
  }
 
@@ -87,8 +87,8 @@ text-decoration: none; color: white; font-family: "Inter", sans-serif;
 }
 
 .heroimage img {
-    width: 580px;
-    height: 515px;
+    width: 400px;
+    height: 450px;
 }
 
 p {
@@ -341,7 +341,7 @@ h5 {
    border-bottom: 2px solid ;
    list-style: none;
    padding:1% 0%;
-   margin:0% 25.5%; 
+   margin:0% 20.5%; 
 
 }
 
@@ -585,7 +585,7 @@ sub {
 
 .customers-section {
    
-   padding: 80px 60px;
+   padding: 80px 30px;
 }
 
 #customers {
