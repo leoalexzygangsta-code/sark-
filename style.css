@@ -58,7 +58,7 @@ text-decoration: none; color: white; font-family: "Inter", sans-serif;
  }
 
  .textarea {
-    margin-left: 50px;
+    margin-left: 30px;
 
  }
 
@@ -87,8 +87,8 @@ text-decoration: none; color: white; font-family: "Inter", sans-serif;
 }
 
 .heroimage img {
-    width: 400px;
-    height: 450px;
+    width: 300px;
+    height: auto;
 }
 
 p {
@@ -337,11 +337,11 @@ h5 {
    justify-content: center;
    align-items: center;
    margin-top: 50px;
-   gap:100px;
+   gap:80px;
    border-bottom: 2px solid ;
    list-style: none;
    padding:1% 0%;
-   margin:0% 20.5%; 
+   margin:0% 13.5%; 
 
 }
 
@@ -600,7 +600,7 @@ sub {
 
 .cardbox {
    display: flex;
-   gap: 100px; 
+   gap: 50px; 
    padding: 50px 0px;
    
 }
@@ -625,13 +625,13 @@ sub {
    color: #FFFFFF;
    font-family: "inter",sans-serif;
    font-size:18px ;
-   font-weight: 300px;
+   font-weight: 300;
    line-height:30px; 
 }
 
 .box-text {font-family: "inter", sans-serif;  
    font-size: 14px;
-   font-weight: 300px;
+   font-weight: 300;
    line-height: 20px;
    opacity: 70%; 
    color: #FFFFFF; 
@@ -640,7 +640,7 @@ h6{
    color: #FFFFFF;
    font-family: "inter",sans-serif;
    font-size: 16px;
-   font-weight: 600px ;
+   font-weight: 600 ;
    line-height: 24px;
    margin-top: 50px;
    margin-bottom: 10px;
@@ -706,7 +706,6 @@ padding: 0px 45px; border-radius: 10px; height: 160px;
 .footer-mobile {
    display: none;
 }
-
 
 
 /*media queries*/
@@ -1263,6 +1262,4 @@ width: 90%;
 .footer-links{
    display: none;
 }
-
 }
-
