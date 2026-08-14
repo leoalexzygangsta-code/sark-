@@ -88,7 +88,7 @@ text-decoration: none; color: white; font-family: "Inter", sans-serif;
 
 .heroimage img {
     width: 300px;
-    height: auto;
+    height: 400px;
 }
 
 p {
@@ -341,7 +341,7 @@ h5 {
    border-bottom: 2px solid ;
    list-style: none;
    padding:1% 0%;
-   margin:0% 13.5%; 
+   margin:0% 18.5%; 
 
 }
 
@@ -585,7 +585,7 @@ sub {
 
 .customers-section {
    
-   padding: 80px 30px;
+   padding: 80px 60px;
 }
 
 #customers {
